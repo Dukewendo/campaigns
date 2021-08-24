@@ -22,7 +22,7 @@ fetch(newReq)
         "Offer ends:" +
         data[i].ends_at;
 
-      mainContainer.appendChild(div);
+      campaign1.appendChild(div);
       console.log("test");
     }
     */
